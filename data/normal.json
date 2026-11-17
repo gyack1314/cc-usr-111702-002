@@ -1,0 +1,33 @@
+{
+  "allowed_origins": [
+    "https://lab.example.test"
+  ],
+  "steps": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "https://lab.example.test/reports/R-17",
+        "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "response": {
+        "file": "source-1.bin",
+        "status": 200,
+        "bytes": 165,
+        "sha256": "448018490e9069096af8620f192b890b47a9eb4c98da40ffaf03ae9adff90bad"
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "https://lab.example.test/reports/R-17/pages/1",
+        "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "response": {
+        "file": "source-2.bin",
+        "status": 200,
+        "bytes": 203,
+        "sha256": "f84139d39dcffe666d3d32a7e41f4b3a879cdff908c06b78fe02350bb959b77b"
+      }
+    }
+  ]
+}

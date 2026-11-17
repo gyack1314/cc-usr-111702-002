@@ -1,0 +1,13 @@
+{
+  "report": "R-17",
+  "revision": "r1",
+  "institution": "检验机构甲",
+  "sample": "S-8",
+  "pages": [
+    1,
+    2
+  ],
+  "items": [
+    "可见异物"
+  ]
+}
