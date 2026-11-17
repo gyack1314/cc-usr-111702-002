@@ -1,0 +1,1 @@
+{"institution": {"id": "lab-south", "name": "南方检验所"}, "report": "R-17", "revision": "r1", "sample": {"id": "S-8", "specification": "0.5g", "batch": "", "batch_status": "unknown"}, "pages": [1], "items": [{"item": "可视觉异物", "result": "检出", "unit": "", "method": "目视"}]}

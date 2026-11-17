@@ -1,0 +1,1 @@
+{"institution": {"id": "lab-south", "name": "南方检验所"}, "catalog_url": "https://lab-south.example.test/catalog.json", "observed_at": "2026-11-16", "entries": [{"report": "R-17", "specification": "0.5g", "sample": "S-8", "title": "某片剂(另一规格)"}, {"report": "R-30", "specification": "0.1g", "sample": "S-20", "title": "某颗粒"}]}

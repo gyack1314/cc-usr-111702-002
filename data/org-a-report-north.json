@@ -1,0 +1,1 @@
+{"institution": {"id": "lab-north", "name": "北方检验中心"}, "report": "R-17", "revision": "r1", "sample": {"id": "S-8", "specification": "0.25g", "batch": "B-2025-01", "batch_status": "unverified"}, "pages": [1, 2], "items": [{"item": "可视觉异物", "result": "检出", "unit": "", "method": "目视"}]}
