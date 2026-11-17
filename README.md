@@ -11,3 +11,5 @@ Python 3.11 以上；在项目根目录执行：
     python -m capture_service.cli inspect data/normal.json
 
 Dockerfile 提供 Linux 环境；docker build -t lab-reports . 构建，docker run --rm lab-reports 运行样例。
+
+真实报告页图字节在附件读取层尚未取得；OCR 仅是页图对应的识别候选。
